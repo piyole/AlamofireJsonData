@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (3.3.1)
+  - JsonData/Core (0.0.1)
+  - JsonData/Objectable (0.0.1):
+    - JsonData/Core
+
+DEPENDENCIES:
+  - Alamofire (~> 3.3.1)
+  - JsonData/Objectable (~> 0.0.1)
+
+SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  JsonData: 792951db613bbed34b6106be34ef2cf9210a2984
+
+COCOAPODS: 0.39.0
